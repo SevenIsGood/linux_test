@@ -1,0 +1,9 @@
+T12212631:VERSION:4.1.210402 COMPILED:Apr  2 2021 09:32:35
+T12212631:CLE Configuration
+ Control Port : 3334 
+ Data Port : 3335 
+ Log Level : 0 
+ Wireless Sync 
+ FPIRF : Enabled
+ Zero algorithm : Enabled
+ solveTime : 200 ms
